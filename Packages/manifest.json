@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "com.ixxy.polyhydra": "file:../../polyhydra-upm/Packages/Polyhydra",
+    "com.ixxy.polyhydra": "https://github.com/IxxyXR/polyhydra-upm.git#upm",
     "com.unity.ide.rider": "1.2.1",
     "com.unity.ide.visualstudio": "2.0.2",
     "com.unity.ide.vscode": "1.2.1",
